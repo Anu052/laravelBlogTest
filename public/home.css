@@ -1,0 +1,37 @@
+/* public/css/welcome.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.max-w-7xl {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.mt-4 {
+    margin-top: 1rem;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.shadow-lg {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.p-6 {
+    padding: 1.5rem;
+}
